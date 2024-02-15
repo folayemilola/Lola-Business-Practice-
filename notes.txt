@@ -1,0 +1,4 @@
+Tuples: 
+- A kind of list but for python 
+- Unlike lists, tuples cannot be moved, added or removed 
+- You can and should use a tuple when you have a data list of different types 
